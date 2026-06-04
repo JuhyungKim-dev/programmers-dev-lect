@@ -6,7 +6,6 @@
 // 암시적 형변환 : 더 작은 자료형이 더 큰 자료형으로 변환할 때 자동으로 이루어진다.
 // 명시적 형변환 : 더 큰 자료형을 더 작은 자료형으로 변환할 때 명시적으로 해야 한다.
 
-
 public class E_casting {
     static void main(String[] args) {
 

@@ -1,0 +1,21 @@
+git init
+	숨겨진 .git 폴더 생성
+git status
+	현재 상태 확인
+git add . 
+	변경된 파일을 커밋 후보에 등록
+git commit -m "first commit"
+	커밋 후보들을 저장
+git config --global user.email ""
+	git 사용자 이메일 설정
+git config --global user.name ""
+	git 사용자 이름 설정
+git config --list
+	git 현재 설정 확인
+git push
+	로컬 커밋을 github에 업로드
+git remote add origin https://github.com/JuhyungKim-dev/programmers-dev-lect.git
+	GitHub 와 연결
+git push --set-upstream origin master
+	push 시, 브랜치 연결도 같이 설정
+	

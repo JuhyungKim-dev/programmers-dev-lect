@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task3 {
+public class task3_0604 {
 
     static final int COKE = 500, CIDER = 700, FANTA = 300, WATER = 200;
 

@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Main {
+public class task2_0610_Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("반려동물의 이름을 지어주세요: ");
         String name = sc.nextLine();
-        Pet pet = new Pet(name);
+        task2_0610_Pet pet = new task2_0610_Pet(name);
         System.out.println(name + "이(가) 태어났어요!");
         pet.showStatus();
 

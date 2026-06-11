@@ -1,9 +1,9 @@
-public class Pet {
+public class task2_0610_Pet {
     private String name;
     private int fullness;
     private int happiness;
 
-    public Pet(String name) {
+    public task2_0610_Pet(String name) {
         this.name = name;
         this.fullness = 50;
         this.happiness = 50;

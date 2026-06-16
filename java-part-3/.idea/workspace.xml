@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d0f6d06-a4f7-499b-be39-22f0707cb844" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0615_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0615_MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0615_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0615_MyTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_3_0615_MyTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0616_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0616_Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0616_MemberManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0616_NormalMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0616_PricePlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0616_VipMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0616_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0616_DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +40,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3EyzUvOKQNUFyXUyc2naDNhKnFQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +54,9 @@
     "Gradle.java-part-3 [:MyLinkedListTest.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_0615_Main.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_1_0615_Main.main()].executor": "Run",
+    "Gradle.java-part-3 [:task2_1_0616_BFS.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_2_0615_Main.main()].executor": "Run",
+    "Gradle.java-part-3 [:task2_2_0616_DFS.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -62,21 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.task2_2_0615_Main">
-    <configuration name="A_collections_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A_collections_list" />
-      <module name="java-part-3.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyArrayListTest" />
-      <module name="java-part-3.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.task2_2_0616_DFS">
     <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyLinkedListTest" />
       <module name="java-part-3.main" />
@@ -91,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2_1_0616_BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2_1_0616_BFS" />
+      <module name="java-part-3.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task2_2_0615_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task2_2_0615_Main" />
       <module name="java-part-3.main" />
@@ -98,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task2_2_0616_DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2_2_0616_DFS" />
+      <module name="java-part-3.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.task2_2_0616_DFS" />
+        <item itemvalue="애플리케이션.task2_1_0616_BFS" />
         <item itemvalue="애플리케이션.task2_2_0615_Main" />
         <item itemvalue="애플리케이션.task2_1_0615_Main" />
         <item itemvalue="애플리케이션.MyLinkedListTest" />
-        <item itemvalue="애플리케이션.MyArrayListTest" />
-        <item itemvalue="애플리케이션.A_collections_list" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +135,7 @@
       <workItem from="1781251509558" duration="1795000" />
       <workItem from="1781481685748" duration="602000" />
       <workItem from="1781511635696" duration="1690000" />
+      <workItem from="1781574091965" duration="6891000" />
     </task>
     <servers />
   </component>

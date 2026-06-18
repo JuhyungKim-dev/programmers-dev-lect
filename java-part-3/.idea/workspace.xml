@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d0f6d06-a4f7-499b-be39-22f0707cb844" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0_0617_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0_0617_Race.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_0_0617_Snail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0617_Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0617_Dungeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_AnswerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_QuestionThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_4_0618_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_4_0618_SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task1_4_0618_WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0618_AccountBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0618_AccountBookImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0618_Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0617_Adventurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0617_Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +59,17 @@
     "Gradle.java-part-3 [:D_start.main()].executor": "Run",
     "Gradle.java-part-3 [:MyArrayListTest.main()].executor": "Run",
     "Gradle.java-part-3 [:MyLinkedListTest.main()].executor": "Run",
+    "Gradle.java-part-3 [:task1_3_0618_Main.main()].executor": "Run",
+    "Gradle.java-part-3 [:task1_4_0618_Main.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_0615_Main.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_0_0617_Main.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_1_0615_Main.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_1_0616_BFS.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_1_0617_Thread.main()].executor": "Run",
+    "Gradle.java-part-3 [:task2_1_0618_Start.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_2_0615_Main.main()].executor": "Run",
     "Gradle.java-part-3 [:task2_2_0616_DFS.main()].executor": "Run",
+    "Gradle.java-part-3 [:task2_2_0617_Main.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -72,21 +83,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.D_start">
-    <configuration name="C_thread_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_thread_1" />
-      <module name="java-part-3.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C_thread_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_thread_2" />
-      <module name="java-part-3.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.task2_1_0618_Start">
     <configuration name="D_start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D_start" />
       <module name="java-part-3.main" />
@@ -94,15 +91,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2_0_0617_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2_0_0617_Main" />
+    <configuration name="task1_3_0618_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1_3_0618_Main" />
       <module name="java-part-3.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2_1_0617_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2_1_0617_Thread" />
+    <configuration name="task1_4_0618_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1_4_0618_Main" />
+      <module name="java-part-3.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_1_0618_Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2_1_0618_Start" />
+      <module name="java-part-3.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task2_2_0617_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2_2_0617_Main" />
       <module name="java-part-3.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.task2_1_0618_Start" />
+        <item itemvalue="애플리케이션.task1_4_0618_Main" />
+        <item itemvalue="애플리케이션.task2_2_0617_Main" />
+        <item itemvalue="애플리케이션.task1_3_0618_Main" />
         <item itemvalue="애플리케이션.D_start" />
-        <item itemvalue="애플리케이션.C_thread_1" />
-        <item itemvalue="애플리케이션.C_thread_2" />
-        <item itemvalue="애플리케이션.task2_1_0617_Thread" />
-        <item itemvalue="애플리케이션.task2_0_0617_Main" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +149,8 @@
       <workItem from="1781481685748" duration="602000" />
       <workItem from="1781511635696" duration="1690000" />
       <workItem from="1781574091965" duration="6979000" />
-      <workItem from="1781664308425" duration="5573000" />
+      <workItem from="1781664308425" duration="6080000" />
+      <workItem from="1781740688833" duration="2918000" />
     </task>
     <servers />
   </component>
@@ -156,6 +168,25 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/task2_2_0617_Main.java</url>
+          <line>1</line>
+          <properties class="task2_2_0617_Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/task1_3_0618_AnswerThread.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/task2_1_0618_Start.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

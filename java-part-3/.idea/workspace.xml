@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d0f6d06-a4f7-499b-be39-22f0707cb844" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_AnswerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_3_0618_QuestionThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_4_0618_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_4_0618_SharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1_4_0618_WorkerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0618_AccountBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0618_AccountBookImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_1_0618_Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0617_Adventurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2_2_0617_Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,38 +39,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.java-part-3 [:A_collections_list.main()].executor": "Run",
-    "Gradle.java-part-3 [:C_thread_1.main()].executor": "Run",
-    "Gradle.java-part-3 [:C_thread_2.main()].executor": "Run",
-    "Gradle.java-part-3 [:D_start.main()].executor": "Run",
-    "Gradle.java-part-3 [:MyArrayListTest.main()].executor": "Run",
-    "Gradle.java-part-3 [:MyLinkedListTest.main()].executor": "Run",
-    "Gradle.java-part-3 [:task1_3_0618_Main.main()].executor": "Run",
-    "Gradle.java-part-3 [:task1_4_0618_Main.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_0615_Main.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_0_0617_Main.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_1_0615_Main.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_1_0616_BFS.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_1_0617_Thread.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_1_0618_Start.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_2_0615_Main.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_2_0616_DFS.main()].executor": "Run",
-    "Gradle.java-part-3 [:task2_2_0617_Main.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.java-part-3 [:A_collections_list.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:C_thread_1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:C_thread_2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:D_start.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:MyArrayListTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:MyLinkedListTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task1_3_0618_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task1_4_0618_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_0615_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_0_0617_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_1_0615_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_1_0616_BFS.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_1_0617_Thread.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_1_0618_Start.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_2_0615_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_2_0616_DFS.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.java-part-3 [:task2_2_0617_Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="애플리케이션.task2_1_0618_Start">
     <configuration name="D_start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="D_start" />
@@ -150,7 +138,8 @@
       <workItem from="1781511635696" duration="1690000" />
       <workItem from="1781574091965" duration="6979000" />
       <workItem from="1781664308425" duration="6080000" />
-      <workItem from="1781740688833" duration="2918000" />
+      <workItem from="1781740688833" duration="3455000" />
+      <workItem from="1781857235340" duration="462000" />
     </task>
     <servers />
   </component>
